@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **holidayei/holidayei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [掘金](https://juejin.im/user/5cf727d3f265da1b934def5c/posts)、[csdn](https://blog.csdn.net/weixin_37390872)、[简书](https://www.jianshu.com/u/6c90fa53b0c3)、[个人站点](https://imholiday.cn/)、
+- 邮箱：holidayei@163.com
+- 原创技术公众号`哈利迪ei`（第一时间获取更新）：
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gg3mnwsbshj308c0augmm.jpg)
