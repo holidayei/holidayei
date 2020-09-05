@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 - [掘金](https://juejin.im/user/2647279731217511/posts)、[csdn](https://blog.csdn.net/weixin_37390872)、[简书](https://www.jianshu.com/u/6c90fa53b0c3)、[个人站点](https://imholiday.cn/)、
 - 邮箱：holidayei@163.com
-- 原创技术公众号：[哈利迪ei](https://tva1.sinaimg.cn/large/007S8ZIlly1gg3mnwsbshj308c0augmm.jpg)
+- 原创技术公众号：[哈利迪ei](https://tva1.sinaimg.cn/large/007S8ZIlly1giftr6j6z3j30b40b4wen.jpg)
